@@ -1,0 +1,9 @@
+main: org.cubeville.cvcrops.CVCrops
+name: CVCrops
+version: 0.1
+api-version: 1.16
+description: 'CVCrops plugin'
+author: ToeMan_
+depend: [WorldGuard]
+commands:
+  cvcrops:

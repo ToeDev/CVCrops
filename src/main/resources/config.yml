@@ -1,0 +1,5 @@
+#number of ticks in between each age growth
+cropgrowinterval: 40
+
+#percentage chance that the crop will grow at each growth interval
+cropgrowchance: 50
